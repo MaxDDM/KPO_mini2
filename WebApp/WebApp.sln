@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp", "WebApp.csproj", "{C3AFF37A-58D8-4BF8-8B80-7801FD76C980}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "..\Domain\Domain.csproj", "{8BA405E4-1908-492C-9113-97B584654EFF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "..\Infrastructure\Infrastructure.csproj", "{42F1E5FE-D9A0-4341-9B51-4AF7B93DBC0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3AFF37A-58D8-4BF8-8B80-7801FD76C980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3AFF37A-58D8-4BF8-8B80-7801FD76C980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3AFF37A-58D8-4BF8-8B80-7801FD76C980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3AFF37A-58D8-4BF8-8B80-7801FD76C980}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BA405E4-1908-492C-9113-97B584654EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BA405E4-1908-492C-9113-97B584654EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BA405E4-1908-492C-9113-97B584654EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BA405E4-1908-492C-9113-97B584654EFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42F1E5FE-D9A0-4341-9B51-4AF7B93DBC0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F1E5FE-D9A0-4341-9B51-4AF7B93DBC0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F1E5FE-D9A0-4341-9B51-4AF7B93DBC0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F1E5FE-D9A0-4341-9B51-4AF7B93DBC0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22CB0B6F-8670-451C-9DB1-F112FCD7AA6A}
+	EndGlobalSection
+EndGlobal
